@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  border: 3px solid grey;
+  width: 250px;
+  height: 550px;
+  border-radius: 10px;
+  margin: 10px 5px;
+}
+
+.img {
+  height: 255px;
+  width: 250px;
+  background-color: #d1fafa;
+}
+
+.portada {
+  padding-top: 2px;
+  width: auto;
+  height: 250px;
+  margin: 0 20%;
+}
+
+.titulo {
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 2px solid grey;
+  border-top: 2px solid grey;
+  margin: 0;
+  background-color: #e0e0e0;
+}
+
+.autor {
+  text-transform: capitalize;
+}
+
+.consinopsis {
+  width: auto;
+  height: 180px;
+}
+
+.sinopsis {
+ margin-left: 7px;
+ margin-right: 7px;
+ margin-top: 12px;
+}
