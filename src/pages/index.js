@@ -2,7 +2,7 @@ import Head from 'next/head';
 
 import Card from '@/components/Card';
 
-import data from './data/data';
+import data from '../data/data';
 import styles from '../styles/principal.module.css';
 import Button from '@/components/Button';
 
